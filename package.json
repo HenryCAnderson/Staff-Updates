@@ -1,0 +1,25 @@
+{
+  "name": "Staff Updates",
+  "version": "1.0.0",
+  "description": "A Discord Bot that allows you to send Staff Updates.",
+  "main": "index.js",
+  "dependencies": {
+    "comma-number": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "pretty-ms": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "staff",
+    "discord",
+    "discordjs",
+    "discord.js"
+  ],
+  "author": "ChatMuted",
+  "license": "MIT"
+}
