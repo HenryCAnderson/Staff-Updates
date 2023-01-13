@@ -1,5 +1,4 @@
-# Staff Updates
-###### As of 01/13/23 this repository has been archived, for any questions please contact me on here or at henry@scuffle.dev.
+# Staff Updates ###### As of 01/13/23 this repository has been archived, for any questions please contact me on here or at henry@scuffle.dev.
 
  Staff updates is a very simple discord bot, which helps you post staff promotions / demotions in you discord server.
  
